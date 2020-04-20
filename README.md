@@ -1,16 +1,13 @@
-# challenge004
+# Flutter Challenge 004
 
-A new Flutter application.
+### Inspiration:
+https://dribbble.com/shots/11062760-Dark-mode-switching
 
-## Getting Started
+### Goal:
+![Goal1](https://imgur.com/LCHpRhU.png)
+![Goal2](https://imgur.com/OTHM6vp.png)
 
-This project is a starting point for a Flutter application.
+### Results:
+![Result1](https://imgur.com/dqLQ49g.png)
+![Result2](https://imgur.com/BKczl49.png)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
